@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1280000
-http://23assia.com/hls/82.m3u8?md5=QcnwL9Q62cmzRm6CXxF0OA&expires=1663609485
+http://23assia.com/hls/83.m3u8?md5=TlOTLJq5okcxPg8VRDQXJw&expires=1663609858
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://23assia.com/hls/82.m3u8?md5=QcnwL9Q62cmzRm6CXxF0OA&expires=1663609485
+http://23assia.com/hls/83.m3u8?md5=TlOTLJq5okcxPg8VRDQXJw&expires=1663609858
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-http://23assia.com/hls/82.m3u8?md5=QcnwL9Q62cmzRm6CXxF0OA&expires=1663609485
+http://23assia.com/hls/83.m3u8?md5=TlOTLJq5okcxPg8VRDQXJw&expires=1663609858
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000,CODECS="mp4a.40.5,avc1.42801e"
-http://23assia.com/hls/82.m3u8?md5=QcnwL9Q62cmzRm6CXxF0OA&expires=1663609485
+http://23assia.com/hls/83.m3u8?md5=TlOTLJq5okcxPg8VRDQXJw&expires=1663609858
