@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1280000
-https://pullbd1.gxset.com/bodan-live/9127718.flv?auth_key=1663657975-0-0-ba3a5dc6414ced2bc3ddadbda0b570f8
+https://pullbd1.gxset.com/bodan-live/9127718.m3u8?auth_key=1663658370-0-0-43f738d44a84c8d98a719cb114296162
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://pullbd1.gxset.com/bodan-live/9127718.flv?auth_key=1663657975-0-0-ba3a5dc6414ced2bc3ddadbda0b570f8
+https://pullbd1.gxset.com/bodan-live/9127718.m3u8?auth_key=1663658370-0-0-43f738d44a84c8d98a719cb114296162
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://pullbd1.gxset.com/bodan-live/9127718.flv?auth_key=1663657975-0-0-ba3a5dc6414ced2bc3ddadbda0b570f8
+https://pullbd1.gxset.com/bodan-live/9127718.m3u8?auth_key=1663658370-0-0-43f738d44a84c8d98a719cb114296162
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000,CODECS="mp4a.40.5,avc1.42801e"
-https://pullbd1.gxset.com/bodan-live/9127718.flv?auth_key=1663657975-0-0-ba3a5dc6414ced2bc3ddadbda0b570f8
+https://pullbd1.gxset.com/bodan-live/9127718.m3u8?auth_key=1663658370-0-0-43f738d44a84c8d98a719cb114296162
