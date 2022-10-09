@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20210701/ourlarge/pngtree-live-stream-icon-online-streaming-logo-vector-png-image_3543171.jpg" group-title="Bhawlone Live",Live Test1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3824454.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20210701/ourlarge/pngtree-live-stream-icon-online-streaming-logo-vector-png-image_3543171.jpg" group-title="Bhawlone Live",Live Test2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3747366.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20210701/ourlarge/pngtree-live-stream-icon-online-streaming-logo-vector-png-image_3543171.jpg" group-title="Bhawlone Live",Live Test3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3681752.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/55.png" group-title="Bhawlone Live",Torino Vs Empoil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755830.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/53.png" group-title="Bhawlone Live",Montpellier Vs Monaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749261.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/87.png" group-title="Bhawlone Live",Valladolid vs Betis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755172.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/47.png" group-title="Bhawlone Live",Palace vs Leeds
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3747060.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/47.png" group-title="Bhawlone Live",West Hen Vs Fulham
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3747069.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/53.png" group-title="Bhawlone Live",Angers Vs Strabourg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749252.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/53.png" group-title="Bhawlone Live",Brestois Vs Lorlent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749255.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/53.png" group-title="Bhawlone Live",Clermont Vs Aj Auxerre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749256.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/53.png" group-title="Bhawlone Live",Nice Vs Troyes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749263.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/55.png" group-title="Bhawlone Live",Monza Vs Spezia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755630.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/55.png" group-title="Bhawlone Live",Salernitana Vs Verona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755633.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/55.png" group-title="Bhawlone Live",Udinese Vs Atalanta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755636.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/54.png" group-title="Bhawlone Live",M gladbach Vs Koin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3748766.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/87.png" group-title="Bhawlone Live",Cadiz Vs Espanyol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755163.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/53.png" group-title="Bhawlone Live",Rennes Vs Nantes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749266.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/47.png" group-title="Bhawlone Live",Arsenal Vs Leverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3747055.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/54.png" group-title="Bhawlone Live",Herthaberlin Vs Freiburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749055.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/55.png" group-title="Bhawlone Live",Cremonese Vs Napoli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755625.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/87.png" group-title="Bhawlone Live",Sociedad Vs Villarreal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755167.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/54.png" group-title="Bhawlone Live",Stuttgart Vs Union Berlin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749052.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/47.png" group-title="Bhawlone Live",Everton Vs Man United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3747062.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/53.png" group-title="Bhawlone Live",Lille Vs Lens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3749257.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/55.png" group-title="Bhawlone Live",Roma Vs Lecce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755631.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.fotmob.com/image_resources/logo/leaguelogo/87.png" group-title="Bhawlone Live",Barcelona Vs Lecce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3755157.m3u8
