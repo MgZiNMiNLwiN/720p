@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport1.png" group-title="Bhawlone Live",BT Sport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTVLCOPT:http-user-agent=Android
 #EXTVLCOPT:http-referrer=https://olacast.live
 https://webui.vhls.ru.com/lb/premium31/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20210701/ourlarge/pngtree-live-stream-icon-online-streaming-logo-vector-png-image_3543171.jpg" group-title="Bhawlone Live",BT Sport2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport2-1.png" group-title="Bhawlone Live",BT Sport2
+#EXTVLCOPT:http-user-agent=Android
 #EXTVLCOPT:http-referrer=https://olacast.live
 https://webui.vhls.ru.com/lb/premium32/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20210701/ourlarge/pngtree-live-stream-icon-online-streaming-logo-vector-png-image_3543171.jpg" group-title="Bhawlone Live",BT Sport3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport3.png" group-title="Bhawlone Live",BT Sport3
+#EXTVLCOPT:http-user-agent=Android
 #EXTVLCOPT:http-referrer=https://olacast.live
 https://webui.vhls.ru.com/lb/premium33/index.m3u8
 
