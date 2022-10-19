@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport1.png" group-title="Bhawlone Live",BT Sport1
-#https://webui.vhls.ru.com/lb/premium31/index.m3u8?|Referer=https://olacast.live/&user-agent=Android
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/premier-league-often-referred-to-outside-england-as-english-epl-top-level-football-system-contested-clubs-202403499.jpg" group-title="Bhawlone Live",Man U Vs Tottenham 
+https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1666226957-0-0-3bc8cbb33e41ad7682e50fc9a933a95a
 
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport2-1.png" group-title="Bhawlone Live",BT Sport2
-#EXTVLCOPT:http-user-agent=Android
-#EXTVLCOPT:http-referrer=https://olacast.live
-https://webui.vhls.ru.com/lb/premium32/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/premier-league-often-referred-to-outside-england-as-english-epl-top-level-football-system-contested-clubs-202403499.jpg" group-title="Bhawlone Live",Man U Vs Tottenham
+https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1666226957-0-0-c9088af7233ec9867769ddaefdccaea1
 
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2020/09/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87btsport3.png" group-title="Bhawlone Live",BT Sport3
-#EXTVLCOPT:http-user-agent=Android
-#EXTVLCOPT:http-referrer=https://olacast.live
-https://webui.vhls.ru.com/lb/premium33/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/premier-league-often-referred-to-outside-england-as-english-epl-top-level-football-system-contested-clubs-202403499.jpg" group-title="Bhawlone Live",Man U Vs Tottenham
+#EXTVLCOPT:http-referrer=https://91p.plvb.xyz/
+https://rmue2hq1pcliv.vcdn.cloud/3474d1cde13e640d6f800e57ec2d5e27/1666249187822/rchtwtx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/premier-league-often-referred-to-outside-england-as-english-epl-top-level-football-system-contested-clubs-202403499.jpg" group-title="Bhawlone Live",Man U Vs Tottenham
+#EXTVLCOPT:http-referrer=https://www.sportlive.cc/
+https://elive.dianshunxinxi.com/livestream/hls/ballbar_15640/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/premier-league-often-referred-to-outside-england-as-english-epl-top-level-football-system-contested-clubs-202403499.jpg" group-title="Bhawlone Live",Man U Vs Tottenham
+#EXTVLCOPT:http-referrer=https://www.24.live/
+https://play.zkshuye.cn/live/sd-1-3747103.m3u8
 
 
 
