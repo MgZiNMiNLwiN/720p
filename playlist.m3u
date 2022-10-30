@@ -13,7 +13,19 @@ https://streaming.iamtheme.com:30443/cloudstreaming/BT%20Sport%201%20United%20Ki
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://streaming.iamtheme.com:30443/cloudstreaming/BT%20Sport%202%20UK_720p/playlist.m3u8?wmsAuthSign=
 
-#EXTINF:-1 tvg-logo="https://24goals.com/wp-content/themes/ball/img/tvonline/bt3.jpg" group-title="Sport",BT Sport2
+#EXTINF:-1 tvg-logo="https://24goals.com/wp-content/themes/ball/img/tvonline/bt2.jpg" group-title="Sport",BT Sport3
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://streaming.iamtheme.com:30443/cloudstreaming/BT%20Sport%203%20UK_720p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://bein.latestlive.net/img/english1.png" group-title="Sport",BeinSport1 Engilsh
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/beIN%20Sports%201%20English_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://bein.latestlive.net/img/english2.png" group-title="Sport",BeinSport2 Engilsh
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/beIN%20Sports%202%20English_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://bein.latestlive.net/img/english3.png" group-title="Sport",BeinSport3 Engilsh
+#EXTVLCOPT:http-referrer=https://olacast.live/
+https://webudi.openhd.lol/lb/premium46/index.m3u8?
 
