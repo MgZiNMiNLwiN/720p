@@ -34,8 +34,8 @@ https://webudi.openhd.lol/lb/premium46/index.m3u8?
 https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-1/playlist.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sport",True Premier Football2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-https://www.livedoomovies.com:4431/02_PremierHD2_480p/chunklist.m3u8?
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/tpf2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="Sport",True Premier Football3
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
@@ -48,6 +48,75 @@ https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-4/playlist.m
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-5-th.png" group-title="Sport",True Premier Football5
 #EXTVLCOPT:http-referrer=https://ufabetcompany.com/
 https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-5/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://bein.latestlive.net/img/premium1.png" group-title="Sport",Beinsport Premium1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/beIN%20Sports%20Premium%201%20Qatar_720p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://bein.latestlive.net/img/premium2.png" group-title="Sport",Beinsport Premium2
+#EXTVLCOPT:http-referrer=https://olacast.live/
+https://webudi.openhd.lol/lb/premium99/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://bein.latestlive.net/img/premium3.png" group-title="Sport",Beinsport Premium3
+#EXTVLCOPT:http-referrer=https://olacast.live/
+https://webudi.openhd.lol/lb/premium100/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="Sport",DIGI Sport1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Digi%20Sport%201%20Romania_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="Sport",DIGI Sport2
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Digi%20Sport%202%20Romania_720p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="Sport",DIGI Sport3
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Digi%20Sport%203%20Romania_720p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="Sport",DIGI Sport4
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Digi%20Sport%204%20Romania_720p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="Sport",Arena Sport1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Arena%20Sport%201%20Croatia_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="Sport",Arena Sport2
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Arena%20Sport%202%20Croatia_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="Sport",Arena Sport3
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Arena%20Sport%203%20Croatia_720p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="Sport",Arena Sport4
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Arena%20Sport%204%20Croatia_720p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="Sport",Arena Sport5
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/Arena%20Sport%205%20Croatia_720p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sport",Sport Tv1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%201%20Portugal_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="Sport",Sport Tv2
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%202%20Portugal_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="Sport",Sport Tv3
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%203%20Portugal_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="Sport",Sport Tv4
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%204%20Portugal_1080p/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_mais.png" group-title="Sport",Sport Tv5
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%205%20Portugal_1080p/playlist.m3u8?wmsAuthSign=
+
 
 
 
