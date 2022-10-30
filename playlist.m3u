@@ -29,3 +29,25 @@ https://streaming.iamtheme.com:30443/cloudstreaming/beIN%20Sports%202%20English_
 #EXTVLCOPT:http-referrer=https://olacast.live/
 https://webudi.openhd.lol/lb/premium46/index.m3u8?
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="Sport",True Premier Football1
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-1/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="Sport",True Premier Football2
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://www.livedoomovies.com:4431/02_PremierHD2_480p/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.png" group-title="Sport",True Premier Football3
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-3/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-4-th.png" group-title="Sport",True Premier Football4
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-4/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-5-th.png" group-title="Sport",True Premier Football5
+#EXTVLCOPT:http-referrer=https://ufabetcompany.com/
+https://live.vip-streaming.com:30443/cloudstreaming/true-premier-hd-5/playlist.m3u8?wmsAuthSign=
+
+
+
